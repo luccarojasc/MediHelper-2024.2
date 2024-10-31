@@ -6,12 +6,12 @@
 | :--: | :-----------------------------------------------------------------------: | :--------: | :---------: |
 | RF01 |       O usuário deve poder adicionar novo medicamentos.                   |  Alta      |             |
 | RF02 |       O usuário deve poder acessar os medicamentos adicionados.           |  Alta      |             |
-| RF03 |       O usuário deve poder acessar o progresso do medicamento.            |  Baixa     |             |
-| RF04 |       O usuário deve poder ver quais medicamentos ele ja tomou.           |            |             |
-| RF05 |       O usuário deve poder ver os medicamentos a ser tomado no mes.       |            |             |
+| RF03 |       O usuário deve poder acessar o progresso do medicamento.            |  Media     |             |
+| RF04 |       O usuário deve poder ver quais medicamentos ele ja tomou.           |  Baixa     |             |
+| RF05 |       O usuário deve poder ver os medicamentos a ser tomado no mes.       |  Alta      |             |
 | RF06 |       O usuário deve poder ver os medicamentos a ser tomado no dia.       |  Alta      |             |
-| RF07 |       O usuário deve poder editar medicamentos cadastrados.               |            |             |
-| RF08 |       O usuário deve poder excluir medicamentos nao mais nescessarios.    |  Baix      |             |
+| RF07 |       O usuário deve poder editar medicamentos cadastrados.               |  Baixa     |             |
+| RF08 |       O usuário deve poder excluir medicamentos nao mais nescessarios.    |  Baixa     |             |
 
 
 <div style="text-align: center">
