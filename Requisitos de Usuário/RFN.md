@@ -4,8 +4,8 @@
 
 | ID   |                                 Requisito NF                              | Categoria/Tipo | Prioridade | Requisitos Relacionados |
 | :--: | :-----------------------------------------------------------------------: |:-------------: | :--------: | :-----------------: |
-| RF01 |  O usuário deve ser ver com clareza o nome do remedio apresentado. | Produto/Usabilidade               |Média       |    RNF12             |
-| RF02 |  O usuário deve ser capaz de adicionar ou excluir medicamentos da forma mais simples possivel.     |  Produto/eficiência     |Alta        |    RF8              |
+| RF01 |  O usuário deve ser ver com clareza o nome do remedio apresentado. | Produto/Usabilidade               |Média       |    RF02             |
+| RF02 |  O usuário deve ser capaz de adicionar ou excluir medicamentos da forma mais simples possivel.     |  Produto/eficiência     |Alta        |    RF01 e RF08              |
 | RF03 |  O sistema deve ser capaz de operar mesmo quando não estar conectado a internet.              |  Organizacionais/Implementação       |Baixa       |     -               |
 
 <div style="text-align: center">
