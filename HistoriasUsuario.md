@@ -17,7 +17,7 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
             <span id="ustory-01"></span>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US01</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu, como usuário regular, quero poder gerenciar meus medicamentos</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>Ao entrar no aplicativo deve aparacer a agenda com os remedios a serem tomando destacados no dias do mes</li><li> A tela do aplicativo deve estar maximizada na tela do celular</li><li>Os mesese devem passar de um mes para outro com apenas um deslizar de dedos</li></ol></td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>Ao entrar no aplicativo deve aparacer a agenda com os remedios a serem tomando destacados no dias do mes</li><li> A tela do aplicativo deve estar maximizada na tela do celular</li><li>Os meses devem passar de um mes para outro com apenas um deslizar de dedos</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF07</td>
         </tr>
