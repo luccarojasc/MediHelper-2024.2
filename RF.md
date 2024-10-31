@@ -1,12 +1,12 @@
-r# 1. Requisitos Funcionais
+# 1. Requisitos Funcionais
 
 <p align="justify">A <i>Tabela 1</i> a seguir contém os Requisitos Funcionais (RF) elicitados utizando a técnica de Brainstorm.</p>
 
 | ID   |                                 Requisito                                 | Prioridade | Requisitos Relacionados |
 | :--: | :-----------------------------------------------------------------------: | :--------: | :---------: |
-| RF01 |       O usuário deve poder gerenciar os seu medicamentos.                 |  Média     |    RF12     |
-| RF02 |       O usuário deve poder acessar os medicamentos adicionados.           |  Alta      |      RF25   |
-| RF03 |       O usuário deve poder acessar o progresso do medicamento.            |  Baixa     |     -       |
+| RF01 |       O usuário deve poder gerenciar os seu medicamentos.                 |  Média     |             |
+| RF02 |       O usuário deve poder acessar os medicamentos adicionados.           |  Alta      |             |
+| RF03 |       O usuário deve poder acessar o progresso do medicamento.            |  Baixa     |             |
 | RF04 |       O usuário deve poder ver quais medicamentos ele ja tomou.           |            |             |
 | RF05 |       O usuário deve poder ver os medicamentos a ser tomado no mes.       |            |             |
 | RF06 |       O usuário deve poder excluir medicamentos nao mais nescessarios.    |            |             |
