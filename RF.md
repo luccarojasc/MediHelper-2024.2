@@ -4,12 +4,14 @@
 
 | ID   |                                 Requisito                                 | Prioridade | Requisitos Relacionados |
 | :--: | :-----------------------------------------------------------------------: | :--------: | :---------: |
-| RF01 |       O usuário deve poder gerenciar os seu medicamentos.                 |  Média     |             |
+| RF01 |       O usuário deve poder adicionar novo medicamentos.                   |  Alta      |             |
 | RF02 |       O usuário deve poder acessar os medicamentos adicionados.           |  Alta      |             |
 | RF03 |       O usuário deve poder acessar o progresso do medicamento.            |  Baixa     |             |
 | RF04 |       O usuário deve poder ver quais medicamentos ele ja tomou.           |            |             |
 | RF05 |       O usuário deve poder ver os medicamentos a ser tomado no mes.       |            |             |
-| RF06 |       O usuário deve poder excluir medicamentos nao mais nescessarios.    |            |             |
+| RF06 |       O usuário deve poder ver os medicamentos a ser tomado no dia.       |  Alta      |             |
+| RF07 |       O usuário deve poder editar medicamentos cadastrados.               |            |             |
+| RF08 |       O usuário deve poder excluir medicamentos nao mais nescessarios.    |  Baix      |             |
 
 
 <div style="text-align: center">
