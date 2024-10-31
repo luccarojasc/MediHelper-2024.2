@@ -2,9 +2,13 @@
 EC46C - Desenvolvimento Ágil - C61 (2024_02)
 
 Bruno de Souza
+
 Lucca Rohas Cappi
+
 Julia Stabelini
+
 Pedro Henrique Tagata Ferreira 
+
 
 
 d. Descrição do que é o projeto (objetivo, principais funcionalidades, público-alvo, etc)
