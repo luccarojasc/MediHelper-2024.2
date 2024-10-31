@@ -25,7 +25,7 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
             <span id="ustory-01"></span>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US02</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu, como usuário regular, desejo ter um perfil para interagir com meus medicos</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>As informações do usuário devem estar evidentes</li><li> O perfil pode ser privado com acesso somento ao usuário e medico</li></ol></td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>As informações do usuário devem estar evidentes</li><li> O perfil deve ser privado com acesso somento ao usuário e medico</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"> Baixa </td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF10</td>
         </tr>
