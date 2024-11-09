@@ -3,7 +3,7 @@ EC46C - Desenvolvimento Ágil - C61 (2024_02)
 ------------------------------------------------------------------------------------------------------------------------
 Bruno de Souza
 
-Lucca Rohas Cappi
+Lucca Rojas Cappi
 
 Julia Stabelini
 
