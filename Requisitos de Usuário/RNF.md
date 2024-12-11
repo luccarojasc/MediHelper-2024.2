@@ -6,7 +6,7 @@
 | :--: | :-----------------------------------------------------------------------: |:-------------: | :--------: | :-----------------: |
 | RF01 |  O usuário deve ser ver com clareza o nome do remedio apresentado. | Produto/Usabilidade               |Média       |    RF02             |
 | RF02 |  O usuário deve ser capaz de adicionar ou excluir medicamentos da forma mais simples possivel.     |  Produto/eficiência     |Alta        |    RF01 e RF08              |
-| RF03 |  O sistema deve ser capaz de operar mesmo quando não estar conectado a internet.              |  Produto/Robustez      |Baixa       |     -               |
+| RF03 |  O sistema deve ser capaz de operar mesmo quando não estar conectado a internet, pois todas as informações deverão ser armazenadas no dispositivel móvel.              |  Produto/Robustez      |Baixa       |     -               |
 
 <div style="text-align: center">
 <p>Tabela 2: Requisitos Não Funcionais</p>
